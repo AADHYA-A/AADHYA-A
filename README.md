@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AADHYA A</h1>
-<h3 align="center">A passionate AI/ML Developer from India</h3>
+<h3 align="center">A passionate Data Enthusiast from India</h3>
 
 <img align="right" alt="coding" width=800 height=600 src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==">
 
