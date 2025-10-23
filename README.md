@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **aadhyababu@gmail.com**
 
+- LinkedIn Profile **https://www.linkedin.com/in/aadhya-a-317790250/**
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-hJoY2h6eOxNBPpV7G-0tMnflf42P8Yl/view?usp=share_link](https://drive.google.com/file/d/1-hJoY2h6eOxNBPpV7G-0tMnflf42P8Yl/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
